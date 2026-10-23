@@ -2,7 +2,7 @@
 
 [← Back to profile](../README.md)
 
-**Collaborators:** Johannes Nivala, Viktor Månsson and Günter Alce, Lund University
+**Collaborators:** Johannes Nivala, Viktor Månsson and Günter Alce, Lund University<br>
 **Status:** Published (ICDVRAT 2026)
 
 ## What it is

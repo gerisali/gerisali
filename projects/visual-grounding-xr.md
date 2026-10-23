@@ -2,7 +2,7 @@
 
 [← Back to profile](../README.md)
 
-**Collaborators:** Lund University
+**Collaborators:** Lund University<br>
 **Status:** Paper under review
 
 ## What it is

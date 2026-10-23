@@ -2,8 +2,8 @@
 
 [← Back to profile](../README.md)
 
-**Collaborator:** Nesrin Özdener Dönmez, Marmara University
-**Funding:** TÜBİTAK 3501
+**Collaborator:** Nesrin Özdener Dönmez, Marmara University<br>
+**Funding:** TÜBİTAK 3501<br>
 **Status:** Completed · published
 
 ## What it is

@@ -2,7 +2,7 @@
 
 [← Back to profile](../README.md)
 
-**Collaborators:** Günter Alce, Lund University
+**Collaborators:** Günter Alce, Lund University<br>
 **Status:** Paper under review
 
 ## What it is

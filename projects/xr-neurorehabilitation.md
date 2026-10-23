@@ -2,7 +2,7 @@
 
 [← Back to profile](../README.md)
 
-**Collaborators:** Daniele Romano and Giorgia Tosi, University of Milano-Bicocca, within COST Action CA24123
+**Collaborators:** Daniele Romano and Giorgia Tosi, University of Milano-Bicocca, within COST Action CA24123<br>
 **Status:** Prototype development
 
 Two mixed-reality prototypes for Meta Quest 3, developed with clinical neuropsychology

@@ -1,6 +1,6 @@
 # Ali Geriş
 
-Associate Professor · Computer and Instructional Technologies Education, Faculty of Education, Manisa Celal Bayar University, Türkiye
+Associate Professor · Computer and Instructional Technologies Education, Faculty of Education, Manisa Celal Bayar University, Türkiye<br>
 Affiliated Researcher · Lund University, Sweden
 
 I work at the intersection of extended reality (XR) and AI. My recent research looks at
