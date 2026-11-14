@@ -14,6 +14,8 @@ A passthrough mixed-reality task that measures whether a person notices static v
 placed all around them (front, back, left, right), not only in front. The output is a
 detection map by region, intended to support the assessment of spatial neglect.
 
+[Project overview, workflow and current prototype →](xr-spatial-neglect-assessment.md)
+
 ## Guided hand training
 The user sees their real hand through passthrough while a semi-transparent reference hand
 demonstrates the movement. The session moves from preview to guided execution, detects
