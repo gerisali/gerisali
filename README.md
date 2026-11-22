@@ -17,6 +17,7 @@ immersive learning.
 | [Human–AI trust in VR](projects/human-ai-trust-vr.md) | Performance vs. trust when working with AI agents in VR | Paper under review |
 | [Visual grounding for multimodal agents in XR](projects/visual-grounding-xr.md) | Letting an agent see and refer to what is on the display | Paper under review |
 | [XR spatial neglect assessment](projects/xr-spatial-neglect-assessment.md) | 360° mixed-reality visual search and target detection | Prototype v0.4.0 · active development |
+| [MR guided hand training](projects/mr-guided-hand-training.md) | Mixed-reality guidance and feedback for hand motor training | Prototype v0.2.0 · active development |
 | [XR for neurorehabilitation](projects/xr-neurorehabilitation.md) | Mixed-reality assessment and training prototypes (COST Action CA24123) | Prototype development |
 | [AR physical coaching](projects/ar-physical-coaching.md) | Posture feedback with local ML and LLMs | Published (ICDVRAT 2026) |
 | [EVRECA](projects/evreca.md) | Educational virtual reality campus | Completed · published (ETRD) |

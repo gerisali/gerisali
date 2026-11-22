@@ -18,10 +18,13 @@ detection map by region, intended to support the assessment of spatial neglect.
 
 ## Guided hand training
 The user sees their real hand through passthrough while a semi-transparent reference hand
-demonstrates the movement. The session moves from preview to guided execution, detects
-mismatches, gives rule-based feedback and ends with a summary. The first version covers
-hand open–close, wrist flexion–extension and finger-to-thumb sequences. It builds on
-Romano et al. (2021), *Neuropsychologia*, https://doi.org/10.1016/j.neuropsychologia.2021.107964.
+demonstrates the movement on it. The session moves from preview to guided execution, where
+the reference hand turns green or red as the movement follows the guide or departs from it,
+and each block ends with a short tip. The first version covers opening and closing the hand,
+lifting the hand with the wrist resting on the table, and finger-to-thumb sequences. It
+builds on Romano et al. (2021), *Neuropsychologia*, https://doi.org/10.1016/j.neuropsychologia.2021.107964.
+
+[Project overview, workflow and current prototype →](mr-guided-hand-training.md)
 
 ## Publications and code
 Planned after pilot testing with the partners.
